@@ -44,7 +44,7 @@ python walmart_product.py
 
 ## Results
 
-The script outputs the retrieved company information in a JSON file named `results.json`.
+The script outputs the retrieved products information in a JSON file named `results.json`.
 
 ```json
 {
